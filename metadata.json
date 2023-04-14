@@ -7,8 +7,8 @@
     },
     {
       "name" : "Boring",
-      "color" : "D59D6B",
-      "image" : "🥱"
+      "color" : "FFCC00",
+      "image" : "🥱"	
     },
     {
       "name" : "Corny",
@@ -22,7 +22,8 @@
     },
     {
       "name" : "Criticize",
-      "color" : "FF9500"
+      "color" : "FF9500",
+      "image" : "jpeg"
     },
     {
       "name" : "Fucking Shut Up",
@@ -71,7 +72,8 @@
     },
     {
       "name" : "Tupac",
-      "color" : "9F7D28"
+      "color" : "9F7D28",
+      "image" : "jpeg"
     },
     {
       "name" : "Water",
@@ -86,5 +88,6 @@
   ],
   "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
   "name" : "Call Chelsea Peretti",
+  "image" : "jpeg",
   "description" : "A collection of sound effects from the podcast that swept the nation and beyond into other nations as well believe it or not"
 }
