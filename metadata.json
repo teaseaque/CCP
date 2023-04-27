@@ -1,213 +1,93 @@
 {
   "sounds" : [
     {
-      "capacity" : 282975,
+      "name" : "Applause",
       "color" : "5AC4F7",
-      "start" : 0,
-      "fileName" : "Applause.mp3",
-      "end" : 282975,
-      "soundType" : "file",
-      "image" : "👏",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Applause"
+      "image" : "👏"
     },
     {
-      "capacity" : 137813,
-      "color" : "D59D6B",
-      "start" : 0,
-      "fileName" : "Boring.mp3",
-      "end" : 137813,
-      "soundType" : "file",
-      "image" : "🥱",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Boring"
-    },
-    {
-      "capacity" : 117600,
+      "name" : "Boring",
       "color" : "FFCC00",
-      "start" : 0,
-      "fileName" : "Corny.mp3",
-      "end" : 117600,
-      "soundType" : "file",
-      "image" : "🌽",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Corny"
+      "image" : "🥱"	
     },
     {
-      "capacity" : 512662,
+      "name" : "Corny",
+      "color" : "FFCC00",
+      "image" : "🌽"
+    },
+    {
+      "name" : "Crankin",
       "color" : "986012",
-      "start" : 0,
-      "fileName" : "Crankin.mp3",
-      "end" : 512662,
-      "soundType" : "file",
-      "image" : "☕",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Crankin"
+      "image" : "☕"
     },
     {
-      "capacity" : 281138,
+      "name" : "Criticize",
       "color" : "FF9500",
-      "start" : 0,
-      "fileName" : "Criticize.mp3",
-      "end" : 281138,
-      "soundType" : "file",
-      "image" : "12DBD2E8-4366-4006-8F6D-F2271710BB38.jpeg",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Criticize"
+      "image" : "jpeg"
     },
     {
-      "capacity" : 107494,
+      "name" : "Fucking Shut Up",
       "color" : "FF3B30",
-      "start" : 0,
-      "fileName" : "Fucking Shut Up.mp3",
-      "end" : 107494,
-      "soundType" : "file",
-      "image" : "🤐",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Fucking Shut Up"
+      "image" : "🤐"
     },
     {
-      "capacity" : 76256,
+      "name" : "Glass",
       "color" : "858585",
-      "start" : 0,
-      "fileName" : "Glass.mp3",
-      "end" : 76256,
-      "soundType" : "file",
-      "image" : "hammer.fill",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Glass"
+      "image" : "hammer.fill"
     },
     {
-      "capacity" : 628425,
+      "name" : "Jackpot",
       "color" : "F7D746",
-      "start" : 0,
-      "fileName" : "Jackpot.mp3",
-      "end" : 628425,
-      "soundType" : "file",
-      "image" : "🎰",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Jackpot"
+      "image" : "🎰"
     },
     {
-      "capacity" : 270112,
+      "name" : "Kind Hearted",
       "color" : "D74EF6",
-      "start" : 0,
-      "fileName" : "Kind Hearted.mp3",
-      "end" : 270112,
-      "soundType" : "file",
-      "image" : "heart.circle.fill",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Kind Hearted"
+      "image" : "heart.circle.fill"
     },
     {
-      "capacity" : 52369,
+      "name" : "No Thank You",
       "color" : "F17137",
-      "start" : 0,
-      "fileName" : "No Thank You.mp3",
-      "end" : 52369,
-      "soundType" : "file",
-      "image" : "person.fill.xmark.rtl",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "No Thank You"
+      "image" : "person.fill.xmark.rtl"
     },
     {
-      "capacity" : 89119,
+      "name" : "Out of Time",
       "color" : "FF9500",
-      "start" : 0,
-      "fileName" : "Out of Time.mp3",
-      "end" : 89119,
-      "soundType" : "file",
-      "image" : "clock.badge.exclamationmark",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Out of Time"
+      "image" : "clock.badge.exclamationmark"
     },
     {
-      "capacity" : 204881,
+      "name" : "Screech",
       "color" : "EBDABA",
-      "start" : 0,
-      "fileName" : "Screech.mp3",
-      "end" : 204881,
-      "soundType" : "file",
-      "image" : "🚘",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Screech"
+      "image" : "🚘"
     },
     {
-      "capacity" : 396900,
+      "name" : "Take Us Down a Road",
       "color" : "34C759",
-      "start" : 0,
-      "fileName" : "Take Us Down a Road.mp3",
-      "end" : 396900,
-      "soundType" : "file",
-      "image" : "🛣",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Take Us Down a Road"
+      "image" : "🛣"
     },
     {
-      "capacity" : 244388,
+      "name" : "Thank You For Your Love",
       "color" : "AF43EB",
-      "start" : 0,
-      "fileName" : "Thank You For Your Love.mp3",
-      "end" : 244388,
-      "soundType" : "file",
-      "image" : "🙇‍♂️",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Thank You For Your Love"
+      "image" : "🙇‍♂️"
     },
     {
-      "capacity" : 92882,
+      "name" : "Tupac",
       "color" : "9F7D28",
-      "start" : 0,
-      "fileName" : "Tupac.mp3",
-      "end" : 92882,
-      "soundType" : "file",
-      "image" : "8A42F534-46C5-4B69-BE03-DBB915F10B75.jpeg",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Tupac"
+      "image" : "jpeg"
     },
     {
-      "capacity" : 237038,
+      "name" : "Water",
       "color" : "007AFF",
-      "start" : 0,
-      "fileName" : "Water.mp3",
-      "end" : 237038,
-      "soundType" : "file",
-      "image" : "drop.triangle",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Water"
+      "image" : "drop.triangle"
     },
     {
-      "capacity" : 115762,
+      "name" : "Wonderful Story",
       "color" : "86B953",
-      "start" : 0,
-      "fileName" : "Wonderful Story.mp3",
-      "end" : 115762,
-      "soundType" : "file",
-      "image" : "book.closed.fill",
-      "description" : "",
-      "playbackSpeed" : 1,
-      "name" : "Wonderful Story"
+      "image" : "book.closed.fill"
     }
   ],
-  "backgroundColor" : "01000101",
-  "description" : "A collection of sound effects from the podcast that swept the nation and beyond into other nations as well believe it or not",
+  "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
   "name" : "Call Chelsea Peretti",
-  "image" : "E7863101-A40E-4E69-B213-87A9DECB0D67.jpeg",
-  "sortsString" : ""
+  "image" : "jpeg",
+  "description" : "A collection of sound effects from the podcast that swept the nation and beyond into other nations as well believe it or not"
 }
