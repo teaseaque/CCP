@@ -1,93 +1,244 @@
 {
+  "name" : "Call Chelsea Peretti",
+  "color" : "FF9F0A",
   "sounds" : [
     {
+      "name" : "Out of Time",
+      "color" : "FF9500",
+      "customSortIndex" : 0,
+      "image" : "⏲️"
+    },
+    {
+      "image" : "🛣",
+      "color" : "34C759",
+      "name" : "Take Us Down a Road",
+      "customSortIndex" : 1
+    },
+    {
+      "color" : "FF4466",
+      "customSortIndex" : 2,
+      "name" : "Dun Dun Dunnn",
+      "image" : "😱"
+    },
+    {
       "name" : "Applause",
+      "image" : "👏",
       "color" : "5AC4F7",
-      "image" : "👏"
+      "customSortIndex" : 3
+    },
+    {
+      "color" : "986012",
+      "customSortIndex" : 4,
+      "image" : "☕",
+      "name" : "Crankin"
+    },
+    {
+      "customSortIndex" : 5,
+      "image" : "🎰",
+      "color" : "F7D746",
+      "name" : "Jackpot"
+    },
+    {
+      "customSortIndex" : 6,
+      "color" : "D74EF6",
+      "name" : "Kind Hearted",
+      "image" : "🫶"
+    },
+    {
+      "color" : "F17137",
+      "image" : "🙅‍♀️",
+      "name" : "No Thank You",
+      "customSortIndex" : 7
+    },
+    {
+      "customSortIndex" : 8,
+      "name" : "Favorite Caller",
+      "image" : "🌟",
+      "color" : "5C5C5C"
+    },
+    {
+      "name" : "Fucking Shut Up",
+      "image" : "🤐",
+      "color" : "FF3B30",
+      "customSortIndex" : 9
+    },
+    {
+      "name" : "Not Fully Awake",
+      "image" : "🛌",
+      "customSortIndex" : 10,
+      "color" : "7FA6F8"
+    },
+    {
+      "image" : "📖",
+      "name" : "Wonderful Story",
+      "color" : "86B953",
+      "customSortIndex" : 11
+    },
+    {
+      "image" : "🙇‍♂️",
+      "color" : "AF43EB",
+      "customSortIndex" : 12,
+      "name" : "Thank You For Your Love"
+    },
+    {
+      "image" : "🏎",
+      "name" : "Screech",
+      "customSortIndex" : 13,
+      "color" : "EBDABA"
+    },
+    {
+      "color" : "FF9500",
+      "name" : "Criticize",
+      "image" : "jpeg",
+      "customSortIndex" : 14
     },
     {
       "name" : "Boring",
       "color" : "FFCC00",
-      "image" : "🥱"	
+      "customSortIndex" : 15,
+      "image" : "🥱"
     },
     {
-      "name" : "Corny",
-      "color" : "FFCC00",
-      "image" : "🌽"
-    },
-    {
-      "name" : "Crankin",
-      "color" : "986012",
-      "image" : "☕"
-    },
-    {
-      "name" : "Criticize",
-      "color" : "FF9500",
-      "image" : "jpeg"
-    },
-    {
-      "name" : "Fucking Shut Up",
-      "color" : "FF3B30",
-      "image" : "🤐"
-    },
-    {
-      "name" : "Glass",
-      "color" : "858585",
-      "image" : "hammer.fill"
-    },
-    {
-      "name" : "Jackpot",
-      "color" : "F7D746",
-      "image" : "🎰"
-    },
-    {
-      "name" : "Kind Hearted",
-      "color" : "D74EF6",
-      "image" : "heart.circle.fill"
-    },
-    {
-      "name" : "No Thank You",
-      "color" : "F17137",
-      "image" : "person.fill.xmark.rtl"
-    },
-    {
-      "name" : "Out of Time",
-      "color" : "FF9500",
-      "image" : "clock.badge.exclamationmark"
-    },
-    {
-      "name" : "Screech",
-      "color" : "EBDABA",
-      "image" : "🚘"
-    },
-    {
-      "name" : "Take Us Down a Road",
-      "color" : "34C759",
-      "image" : "🛣"
-    },
-    {
-      "name" : "Thank You For Your Love",
-      "color" : "AF43EB",
-      "image" : "🙇‍♂️"
-    },
-    {
-      "name" : "Tupac",
-      "color" : "9F7D28",
-      "image" : "jpeg"
+      "image" : "🤮",
+      "color" : "4E7A27",
+      "name" : "gross",
+      "customSortIndex" : 16
     },
     {
       "name" : "Water",
+      "customSortIndex" : 17,
       "color" : "007AFF",
-      "image" : "drop.triangle"
+      "image" : "🚰"
     },
     {
-      "name" : "Wonderful Story",
-      "color" : "86B953",
-      "image" : "book.closed.fill"
+      "color" : "F09286",
+      "image" : "🧘‍♀️",
+      "name" : "Zen",
+      "customSortIndex" : 18
+    },
+    {
+      "customSortIndex" : 19,
+      "name" : "That’s Funny",
+      "image" : "😂",
+      "color" : "C45FF6"
+    },
+    {
+      "image" : "🧨",
+      "color" : "A62C17",
+      "name" : "Tick Tick Boom",
+      "customSortIndex" : 20
+    },
+    {
+      "customSortIndex" : 21,
+      "image" : "🤪",
+      "name" : "Cookoo",
+      "color" : "4CA872"
+    },
+    {
+      "name" : "Wolf Blitzer",
+      "image" : "🐺",
+      "color" : "999999",
+      "customSortIndex" : 22
+    },
+    {
+      "image" : "🌽",
+      "name" : "Corny",
+      "color" : "FFCC00",
+      "customSortIndex" : 23
+    },
+    {
+      "customSortIndex" : 24,
+      "color" : "C45FF6",
+      "name" : "Airport Bathroom",
+      "image" : "🚻"
+    },
+    {
+      "image" : "jpeg",
+      "customSortIndex" : 25,
+      "color" : "9F7D28",
+      "name" : "Tupac"
+    },
+    {
+      "customSortIndex" : 26,
+      "name" : "Glass",
+      "color" : "FF9F0A",
+      "image" : "🔨"
+    },
+    {
+      "customSortIndex" : 27,
+      "image" : "⏪",
+      "color" : "ED6C59",
+      "name" : "Rewind"
+    },
+    {
+      "image" : "🔪",
+      "type" : "m4a",
+      "customSortIndex" : 28,
+      "name" : "Psycho",
+      "color" : "0A84FF"
+    },
+    {
+      "customSortIndex" : 29,
+      "name" : "Do Dat",
+      "image" : "🤷‍♀️",
+      "color" : "FEF781"
+    },
+    {
+      "customSortIndex" : 30,
+      "name" : "Buzzer",
+      "image" : "❌",
+      "color" : "831100"
+    },
+    {
+      "image" : "🔔",
+      "name" : "Bell",
+      "color" : "30D158",
+      "customSortIndex" : 31
+    },
+    {
+      "name" : "Peretti or Not",
+      "color" : "A26B00",
+      "customSortIndex" : 32,
+      "image" : "🗺"
+    },
+    {
+      "name" : "Seem Like A Real Sweetheart",
+      "image" : "👋",
+      "color" : "7E52F5",
+      "customSortIndex" : 33
+    },
+    {
+      "image" : "🍂",
+      "name" : "Leaf Blower",
+      "customSortIndex" : 34,
+      "color" : "8D8602"
+    },
+    {
+      "image" : "💥",
+      "name" : "Action Music",
+      "color" : "23FFB7",
+      "customSortIndex" : 35
+    },
+    {
+      "customSortIndex" : 36,
+      "name" : "I Can’t Make You Love Me",
+      "image" : "jpeg",
+      "color" : "BE9171"
+    },
+    {
+      "color" : "FBA9FF",
+      "image" : "💋",
+      "customSortIndex" : 37,
+      "name" : "Sexy Music"
+    },
+    {
+      "image" : "🚙",
+      "name" : "I Drive A Mercedes",
+      "customSortIndex" : 38,
+      "color" : "0A84FF"
     }
   ],
-  "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
-  "name" : "Call Chelsea Peretti",
-  "image" : "jpeg",
-  "description" : "A collection of sound effects from the podcast that swept the nation and beyond into other nations as well believe it or not"
+  "sorts" : "[{\"isForward\":true,\"sortValue\":\"customSortIndex\"}]",
+  "description" : "A collection of sound effects from the podcast where callers brought varying amounts of things to the table.",
+  "image" : "jpeg"
 }
