@@ -238,7 +238,17 @@
       "color" : "0A84FF"
     }
   ],
+<<<<<<< HEAD
   "sorts" : "[{\"isForward\":true,\"sortValue\":\"customSortIndex\"}]",
   "description" : "A collection of sound effects from the podcast where callers brought varying amounts of things to the table.",
   "image" : "jpeg"
 }
+=======
+  "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
+  "name" : "Call Chelsea Peretti",
+  "image" : "jpeg",
+  "duration" : 87,
+  "size" : 2191200,
+  "description" : "A collection of sound effects from the podcast where callers brought varying amounts of things to the table."
+}
+>>>>>>> dd78bf49431a4124a51440bcc5c39c95b3acc0aa
